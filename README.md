@@ -10,9 +10,7 @@ Key libraries and tools used:
 
 - **Local Storage:** To persist data across browser sessions
 
-🔗 Live Demo:** Click here to view the project
-
-✨ Features
+## ✨ Features
 - **CRUD Functionality**
 Create, read, update (edit), and delete tasks with a simple and intuitive interface.
 
@@ -36,4 +34,11 @@ Uses localStorage to retain tasks even after the browser is closed.
 
 - **Modular Codebase with Webpack**
 Clean and maintainable structure using Webpack’s module bundling.
+
+### Here is the picture of what I made
+
+![image](![image](https://github.com/user-attachments/assets/397ff5ea-b929-430d-b6da-7ff14038f323))
+
+if you want to check the website by yourself here is the link
+### 🔗 Live Demo: [Project Todo List](https://samamakarim092.github.io/Project-Todo-List-1/)
 
