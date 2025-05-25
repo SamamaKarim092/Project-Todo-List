@@ -37,7 +37,8 @@ Clean and maintainable structure using Webpack’s module bundling.
 
 ### Here is the picture of what I made
 
-![image](![image](https://github.com/user-attachments/assets/397ff5ea-b929-430d-b6da-7ff14038f323))
+![image](![image](https://github.com/user-attachments/assets/d8e7e133-c3d8-4e46-9db5-6b74561aa4b8)
+)
 
 if you want to check the website by yourself here is the link
 ### 🔗 Live Demo: [Project Todo List](https://samamakarim092.github.io/Project-Todo-List-1/)
