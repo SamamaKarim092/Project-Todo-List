@@ -7,6 +7,7 @@ module.exports = {
     path: path.resolve(__dirname, 'dist'), // Output bundled files to 'dist' folder
     filename: 'bundle.js', // Name of the bundled JS file
     clean: true, // Clean the output directory before each build
+    publicPath: '/Project-Todo-List/'
   },
   mode: 'development', // Use 'production' for optimized builds
   module: {
