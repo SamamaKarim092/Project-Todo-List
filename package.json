@@ -2,7 +2,7 @@
   "name": "project-todo-list",
   "version": "1.0.0",
   "main": "main.js",
-  "homepage": "https://SamamaKarim092.github.io/Project-Todo-List-1",
+  "homepage": "https://SamamaKarim092.github.io/Project-Todo-List",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack serve --open",
