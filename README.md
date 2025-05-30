@@ -40,5 +40,5 @@ Clean and maintainable structure using Webpack’s module bundling.
 ![image](https://github.com/user-attachments/assets/d8e7e133-c3d8-4e46-9db5-6b74561aa4b8)
 
 if you want to check the website by yourself here is the link
-### 🔗 Live Demo: [Project Todo List](https://samamakarim092.github.io/Project-Todo-List-1/)
+### 🔗 Live Demo: [Project Todo List](https://samamakarim092.github.io/Project-Todo-List/)
 
